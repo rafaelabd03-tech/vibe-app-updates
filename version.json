@@ -1,0 +1,12 @@
+{
+  "version": 1.1,
+  "files": [
+    "video/bg_video_loop.mp4",
+    "audio/second_bg.ogg",
+    "images/strip1.jpeg",
+    "images/strip2.jpeg",
+    "images/strip3.jpeg",
+    "images/strip4.jpeg",
+    "message.json"
+  ]
+}
